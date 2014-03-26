@@ -5,6 +5,6 @@ function vCenter(element, contentTarget) {
   var container = element,
   target = element.find(contentTarget);
   
-  target.css('top', ($(element).height() - target.height()) / 2);
+  target.css('top', (element.height() - target.height()) / 2);
     
 }
