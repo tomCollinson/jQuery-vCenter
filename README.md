@@ -21,7 +21,7 @@ $(document).ready(function(){
 
 ###Non-Plugin Code
 
-If you prefer to have a standalone function to integrate into your own code and just don't need a full plugin you can use the one provided in vCenter-function.js and shown below. Pass two jQuery objects through as arguements and the function will handle the rest.
+If you prefer to have a standalone function to integrate into your own code and just don't need a full plugin you can use the one provided in vCenter-function.js and shown below. Pass two jQuery objects through as arguments and the function will handle the rest.
 
 ```javascript
 
